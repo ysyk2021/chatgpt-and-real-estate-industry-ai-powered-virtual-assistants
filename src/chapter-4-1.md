@@ -10,16 +10,6 @@ ChatGPT works by leveraging its advanced natural language processing (NLP) capab
 
 When a user inputs a query into the ChatGPT chatbot, the model analyzes the question's context, syntax, and meaning. It then generates a response that is contextually relevant and grammatically correct. Furthermore, the model can learn from the conversation flow and adjust its responses accordingly, providing a more personalized experience for users.
 
-Features of ChatGPT
--------------------
-
-Some of the key features of ChatGPT include:
-
-* Advanced NLP capabilities that enable it to understand complex language patterns and contexts.
-* Ability to generate human-like responses to queries in real-time.
-* Personalization through learning from conversation flow.
-* Customizable training data sets to cater to specific use cases.
-
 Applications of ChatGPT in Real Estate Industry
 -----------------------------------------------
 

@@ -3,11 +3,6 @@ Advantages of Using ChatGPT in Virtual Assistants for Real Estate
 
 ChatGPT is a state-of-the-art language generation model developed by OpenAI that has shown tremendous potential in various applications, including virtual assistants for the real estate industry. In this chapter, we will introduce ChatGPT and discuss its advantages in improving virtual assistants for real estate.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a language generation model developed by OpenAI that uses deep learning algorithms to generate natural language responses to user queries. The model is trained on a vast amount of text data and can generate coherent and contextually appropriate responses to a wide range of queries.
-
 Advantages of Using ChatGPT in Virtual Assistants for Real Estate
 -----------------------------------------------------------------
 

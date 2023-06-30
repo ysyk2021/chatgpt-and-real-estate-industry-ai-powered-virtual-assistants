@@ -3,11 +3,6 @@ Case Studies on ChatGPT-Based Virtual Assistants in Real Estate
 
 ChatGPT is a powerful tool that can be used to provide personalized and efficient customer service in the real estate industry. In this chapter, we will introduce ChatGPT and discuss its capabilities. We will also provide case studies on ChatGPT-based virtual assistants in real estate.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered language model developed by OpenAI that is capable of generating human-like responses to natural language queries. It uses machine learning algorithms to understand context and generate appropriate responses based on user preferences and behavior.
-
 ChatGPT-Based Virtual Assistants in Real Estate
 -----------------------------------------------
 
