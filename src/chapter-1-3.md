@@ -1,5 +1,4 @@
-Importance of ChatGPT in the Real Estate Industry
-===============================================================
+
 
 ChatGPT is an AI-powered virtual assistant that has the potential to transform the real estate industry. This technology can improve customer service, increase efficiency, and provide businesses with a competitive edge.
 

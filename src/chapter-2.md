@@ -1,5 +1,4 @@
-Chapter 1: Understanding Virtual Assistants in Real Estate
-==========================================================
+
 
 What are Virtual Assistants in Real Estate?
 -------------------------------------------

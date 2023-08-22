@@ -1,5 +1,4 @@
-The Future of Chatbots and AI in Real Estate
-=======================================================================================================================
+
 
 The future of chatbots and AI in real estate is exciting, with new technologies and trends emerging that are expected to revolutionize the industry. In this chapter, we will explore the future of chatbots and AI in real estate.
 

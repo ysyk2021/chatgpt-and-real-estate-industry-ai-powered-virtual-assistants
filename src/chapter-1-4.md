@@ -1,5 +1,4 @@
-Objectives of the book
-====================================
+
 
 The real estate industry is rapidly evolving, and businesses must adapt to stay competitive. One way to improve customer service and increase efficiency is through the use of virtual assistants powered by AI, such as ChatGPT.
 

@@ -1,5 +1,4 @@
-Evaluating ChatGPT's Performance and Effectiveness in Virtual Assistants for Real Estate
-====================================================================================================================================================================
+
 
 The implementation of ChatGPT in virtual assistants for the real estate industry has shown significant potential in improving customer service and engagement. In this chapter, we will evaluate ChatGPT's performance and effectiveness in virtual assistants for real estate.
 

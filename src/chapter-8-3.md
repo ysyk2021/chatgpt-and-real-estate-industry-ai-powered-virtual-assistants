@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 Virtual assistants powered by AI, such as ChatGPT, have the potential to transform the real estate industry by providing personalized and efficient customer service. However, there are limitations and challenges that must be addressed to ensure their effectiveness.
 

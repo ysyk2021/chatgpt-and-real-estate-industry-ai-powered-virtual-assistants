@@ -1,5 +1,4 @@
-Challenges and Limitations of Using Chatbots in Real Estate
-======================================================================================================
+
 
 While chatbots and AI solutions can provide significant benefits to the real estate industry, they also face several challenges and limitations that must be addressed for successful implementation.
 

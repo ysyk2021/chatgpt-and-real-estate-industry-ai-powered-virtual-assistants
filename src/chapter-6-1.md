@@ -1,5 +1,4 @@
-Planning and Designing Virtual Assistants with ChatGPT for Real Estate
-==================================================================================================================================================
+
 
 Planning and designing virtual assistants with ChatGPT for real estate is an essential step in their implementation. In this chapter, we will discuss the key considerations for planning and designing virtual assistants with ChatGPT for real estate.
 

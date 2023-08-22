@@ -1,5 +1,4 @@
-Emerging Trends in Chatbots and AI in Real Estate
-============================================================================================================================
+
 
 Chatbots and AI are rapidly evolving, and the real estate industry is not exempt from these changes. In this chapter, we will explore emerging trends in chatbots and AI in real estate.
 

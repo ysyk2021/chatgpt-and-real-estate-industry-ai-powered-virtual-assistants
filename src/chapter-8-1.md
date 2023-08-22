@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 In conclusion, this book has explored the various aspects of virtual assistants powered by AI in the real estate industry, with a focus on ChatGPT. The key points discussed in this book include:
 
