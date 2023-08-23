@@ -1,5 +1,4 @@
 
-
 What are Virtual Assistants in Real Estate?
 -------------------------------------------
 

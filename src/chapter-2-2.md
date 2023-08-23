@@ -1,5 +1,4 @@
 
-
 Virtual assistants in the real estate industry have a relatively short but significant history. Over the past decade, advances in AI and machine learning have enabled organizations to develop chatbots that can provide automated assistance to customers and agents.
 
 Early Days of Virtual Assistants in Real Estate

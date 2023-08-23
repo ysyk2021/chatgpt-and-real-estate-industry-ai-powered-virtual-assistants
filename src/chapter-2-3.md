@@ -1,5 +1,4 @@
 
-
 Virtual assistants in the real estate industry come in various forms, each with its unique features and capabilities. Some of the most common types of virtual assistants used today include:
 
 Rule-based Chatbots

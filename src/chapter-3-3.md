@@ -1,5 +1,4 @@
 
-
 Chatbots are becoming an increasingly popular tool in the real estate industry, providing customers with personalized assistance and enabling agents to manage their workload more efficiently. There are several types of chatbots used in real estate, each with its unique features and capabilities.
 
 Rule-Based Chatbots

@@ -1,5 +1,4 @@
 
-
 Chatbots and AI solutions are rapidly transforming the real estate industry, providing customers with personalized assistance and enabling agents to manage their workload more efficiently. There are several advantages of using chatbots and AI in real estate.
 
 Enhanced Efficiency

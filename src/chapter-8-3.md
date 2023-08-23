@@ -1,5 +1,4 @@
 
-
 Virtual assistants powered by AI, such as ChatGPT, have the potential to transform the real estate industry by providing personalized and efficient customer service. However, there are limitations and challenges that must be addressed to ensure their effectiveness.
 
 The limitations of virtual assistants in real estate include lack of human touch, limited capabilities, technical issues, and data privacy concerns. Businesses must carefully consider these factors when deciding whether to implement virtual assistants in their operations.

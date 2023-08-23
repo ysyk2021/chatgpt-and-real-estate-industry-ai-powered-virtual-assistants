@@ -1,5 +1,4 @@
 
-
 The real estate industry is poised for significant growth and transformation with the adoption of chatbots and AI. In this chapter, we will discuss emerging trends in chatbots and AI in real estate, the future of chatbots and AI in real estate, and the opportunities and challenges that come with their adoption.
 
 Emerging Trends in Chatbots and AI in Real Estate

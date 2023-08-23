@@ -1,5 +1,4 @@
 
-
 ChatGPT has shown significant potential in improving virtual assistants in the real estate industry. In this chapter, we will discuss case studies that demonstrate ChatGPT's effectiveness in improving virtual assistants in real estate.
 
 Case Study 1: Zillow's Virtual Assistant

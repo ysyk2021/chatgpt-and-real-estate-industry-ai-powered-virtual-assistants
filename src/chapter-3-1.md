@@ -1,5 +1,4 @@
 
-
 Chatbots and AI solutions are transforming the real estate industry by providing customers with personalized assistance and enabling agents to manage their workload more efficiently. There are various types of chatbots and AI solutions used in real estate, each with its unique features and capabilities.
 
 Rule-Based Chatbots

@@ -1,5 +1,4 @@
 
-
 ChatGPT is a powerful tool that can be used to provide personalized and efficient customer service in the real estate industry. In this chapter, we will introduce ChatGPT and discuss its capabilities. We will also provide case studies on ChatGPT-based virtual assistants in real estate.
 
 ChatGPT-Based Virtual Assistants in Real Estate

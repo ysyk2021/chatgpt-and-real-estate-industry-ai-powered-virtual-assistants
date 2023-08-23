@@ -1,5 +1,4 @@
 
-
 In conclusion, this book has explored the various aspects of virtual assistants powered by AI in the real estate industry, with a focus on ChatGPT. The key points discussed in this book include:
 
 * Virtual assistants powered by AI are becoming increasingly important in the real estate industry.
