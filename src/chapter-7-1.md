@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends in Chatbots and AI in Real Estate
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends in chatbots and AI technologies that are shaping the real estate industry. These advancements have the potential to revolutionize the way real estate professionals and clients interact, streamline processes, and provide enhanced experiences. Let's delve into some of the key trends:
 

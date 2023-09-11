@@ -1,5 +1,4 @@
-Chapter: Personalization Techniques Used in ChatGPT for Real Estate
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

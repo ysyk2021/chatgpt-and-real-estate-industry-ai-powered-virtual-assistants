@@ -1,5 +1,4 @@
-Chapter 7: How ChatGPT Uses Data to Improve Virtual Assistants in Real Estate
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT utilizes data to improve virtual assistants in the real estate industry. ChatGPT leverages large datasets and sophisticated training techniques to enhance its language processing capabilities, accuracy, and overall performance. By analyzing and learning from extensive amounts of real estate data, ChatGPT enables virtual assistants to provide more accurate responses, better understand user queries, and offer enhanced assistance.
 

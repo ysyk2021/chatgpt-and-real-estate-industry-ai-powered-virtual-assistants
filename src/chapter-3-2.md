@@ -1,5 +1,4 @@
-Chapter 3: Advantages of Using Chatbots and AI in Real Estate
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous advantages of using chatbots and AI in the real estate industry. As technology continues to advance, these AI-powered virtual assistants are transforming the way real estate professionals and customers interact. Let's delve into the advantages:
 

@@ -1,5 +1,4 @@
-Chapter 5: The History and Evolution of Virtual Assistants in Real Estate
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will trace the history and evolution of virtual assistants in the real estate industry. From their early beginnings to their current sophisticated capabilities, virtual assistants have undergone significant advancements, revolutionizing the way real estate professionals and clients interact.
 

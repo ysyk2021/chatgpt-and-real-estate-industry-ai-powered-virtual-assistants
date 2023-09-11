@@ -1,5 +1,4 @@
-Chapter 2: Types of Chatbots Used in Real Estate
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the real estate industry, chatbots have become increasingly popular as AI-powered virtual assistants. These chatbots are designed to provide efficient and personalized customer service, automate routine tasks, and enhance overall user experience. In this chapter, we will explore the different types of chatbots commonly used in the real estate sector.
 

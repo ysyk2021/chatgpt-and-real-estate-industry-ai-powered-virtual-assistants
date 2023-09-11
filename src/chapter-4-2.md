@@ -1,5 +1,4 @@
-Chapter 1: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced AI-powered virtual assistant that has revolutionized the real estate industry by providing a seamless and efficient communication platform. In this chapter, we will explore the remarkable features of ChatGPT that make it an indispensable tool for real estate professionals.
 

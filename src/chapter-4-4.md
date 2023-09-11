@@ -1,5 +1,4 @@
-Chapter 6: Case Studies on ChatGPT-Based Virtual Assistants in Real Estate
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies that highlight the successful implementation and impact of ChatGPT-based virtual assistants in the real estate industry. These case studies demonstrate how AI-powered virtual assistants are revolutionizing the way real estate professionals interact with clients, streamline processes, and provide enhanced customer experiences.
 

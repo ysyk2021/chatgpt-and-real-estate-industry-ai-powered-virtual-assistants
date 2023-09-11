@@ -1,5 +1,4 @@
-Chapter 4: Types of Virtual Assistants Used Today
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of virtual assistants that are commonly used in the real estate industry today. These virtual assistants leverage AI-powered technologies to enhance communication, streamline processes, and provide valuable assistance to real estate professionals and clients.
 

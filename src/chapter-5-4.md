@@ -1,5 +1,4 @@
-Chapter 4: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Virtual Assistants in Real Estate
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore several case studies that highlight the effectiveness of ChatGPT in improving virtual assistants in the real estate industry. ChatGPT is an advanced language model that leverages artificial intelligence and natural language processing to provide more intelligent and human-like conversations. Let's dive into these case studies:
 

@@ -1,5 +1,4 @@
-Chapter 2: Evaluating ChatGPT's Performance and Effectiveness in Virtual Assistants for Real Estate
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the evaluation of ChatGPT's performance and effectiveness as a virtual assistant specifically designed for the real estate industry. Assessing its capabilities is crucial to understand its strengths, limitations, and potential impact on the real estate sector.
 

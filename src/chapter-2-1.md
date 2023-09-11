@@ -1,5 +1,4 @@
-Chapter 3: What are Virtual Assistants in Real Estate?
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of virtual assistants in the real estate industry and their role in transforming the way real estate professionals interact with clients and streamline their operations.
 
